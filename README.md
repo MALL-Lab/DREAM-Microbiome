@@ -1,5 +1,9 @@
 # DREAM Challenge - Preterm Birth - Microbiome
 
+![GitHub last commit](https://img.shields.io/github/last-commit/MALL-Lab/DREAM-Microbiome)
+![Maintenance](https://img.shields.io/badge/Maintenance-Inactive-yellow)
+[![MALL Lab](https://img.shields.io/badge/MALL-Lab-233452)](https://mall-lab.github.io/)
+
 ## Methods
 
 ### Train data pre-processing
